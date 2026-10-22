@@ -1,1 +1,1 @@
-- Fix the combined scripts and styles failing to load through Ingress
+🎉 Initial release
