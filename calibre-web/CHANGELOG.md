@@ -1,1 +1,1 @@
-- Update Debian package pins to current trixie
+🎉  Initial release!

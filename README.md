@@ -717,10 +717,10 @@ SOFTWARE.
 [addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/a217ea7/README.md
 [bookstack-issue]: https://github.com/hassio-addons/app-bookstack/issues
 [bookstack-version-shield]: https://img.shields.io/badge/version-a217ea7-blue.svg
-[addon-calibre-web]: https://github.com/hassio-addons/app-calibre-web/tree/37073a4
-[addon-doc-calibre-web]: https://github.com/hassio-addons/app-calibre-web/blob/37073a4/README.md
+[addon-calibre-web]: https://github.com/hassio-addons/app-calibre-web/tree/v0.1.0
+[addon-doc-calibre-web]: https://github.com/hassio-addons/app-calibre-web/blob/v0.1.0/README.md
 [calibre-web-issue]: https://github.com/hassio-addons/app-calibre-web/issues
-[calibre-web-version-shield]: https://img.shields.io/badge/version-37073a4-blue.svg
+[calibre-web-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
 [addon-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/tree/f6d5ef9
 [addon-doc-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/blob/f6d5ef9/README.md
 [dispatcharr-issue]: https://github.com/hassio-addons/app-dispatcharr/issues
