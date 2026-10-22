@@ -821,10 +821,10 @@ SOFTWARE.
 [addon-doc-radarr]: https://github.com/hassio-addons/app-radarr/blob/dc087cd/README.md
 [radarr-issue]: https://github.com/hassio-addons/app-radarr/issues
 [radarr-version-shield]: https://img.shields.io/badge/version-dc087cd-blue.svg
-[addon-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/tree/bcb12e1
-[addon-doc-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/blob/bcb12e1/README.md
+[addon-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/tree/cb981b2
+[addon-doc-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/blob/cb981b2/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/app-sabnzbd/issues
-[sabnzbd-version-shield]: https://img.shields.io/badge/version-bcb12e1-blue.svg
+[sabnzbd-version-shield]: https://img.shields.io/badge/version-cb981b2-blue.svg
 [addon-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/tree/2cb8097
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/blob/2cb8097/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/app-sqlite-web/issues
