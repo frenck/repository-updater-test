@@ -1,1 +1,1 @@
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.20 (#12)
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.22 (#14)
