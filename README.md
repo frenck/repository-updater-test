@@ -32,7 +32,7 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/hassio-addons/repository-edge
+https://github.com/frenck/repository-updater-test
 ```
 
 ## Apps provided by this repository
@@ -942,8 +942,8 @@ SOFTWARE.
 [forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
 [forum]: https://community.home-assistant.io?u=frenck
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/hassio-addons/repository-edge/issues
-[license-shield]: https://img.shields.io/github/license/hassio-addons/repository-edge.svg
+[issue]: https://github.com/frenck/repository-updater-test/issues
+[license-shield]: https://img.shields.io/github/license/frenck/repository-updater-test.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [reddit]: https://reddit.com/r/homeassistant
